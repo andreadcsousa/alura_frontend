@@ -1,3 +1,5 @@
+/* ESTILO DO HEADER */
+
 header {
     background: #BBBBBB;
 }
@@ -32,6 +34,17 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/* ESTILO DO BODY */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -50,6 +63,8 @@ nav a:hover {
     border-radius: 10px;
 }
 
+/* ANIMAÇÃO */
+
 .produtos li:hover {
     border-color: #C78C19;
 }
@@ -58,14 +73,20 @@ nav a:hover {
     border-color: #088C19;
 }
 
+/**/
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
 }
 
+/* ANIMAÇÃO */
+
 .produtos h2:hover {
     font-size: 34px;
 }
+
+/**/
 
 .produto-descricao {
     font-size: 18px;
@@ -76,6 +97,8 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+/* ESTILO DO FOOTER */
 
 footer {
     text-align: center;
