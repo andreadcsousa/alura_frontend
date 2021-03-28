@@ -29,6 +29,7 @@ nav a {
     text-decoration: none;
 }
 
+/* ANIMAÇÃO */
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
@@ -102,7 +103,7 @@ strong {
 /* BENEFÍCIOS */
 
 .beneficios {
-    padding: 3em 0;
+    padding: 2em 0;
     background: #888888;
 }
 
@@ -124,6 +125,7 @@ strong {
     box-shadow: 10px 10px 10px #000000;
 }
 
+/* ANIMAÇÃO */
 .img-beneficios:hover {
     opacity: 0.3;
 }
@@ -131,6 +133,7 @@ strong {
 .itens {
     line-height: 1.5;
 }
+
 .itens:first-child {
     font-weight: bold;
 }
@@ -141,7 +144,7 @@ strong {
 
 .video {
     width: 560px;
-    margin: 1.5em auto;
+    margin: 2em auto;
 }
 
 /* ESTILO DO FOOTER */
