@@ -76,21 +76,17 @@ main {
 /**/
 
 .produtos h2 {
-    font-size: 30px;
+    font-size: 26px;
     font-weight: bold;
 }
 
 /* ANIMAÇÃO */
 
 .produtos h2:hover {
-    font-size: 34px;
+    font-size: 30px;
 }
 
 /**/
-
-.produto-descricao {
-    font-size: 18px;
-}
 
 .produto-preco {
     font-size: 22px;
@@ -110,4 +106,10 @@ footer {
     color: #FFFFFF;
     font-size: 13px;
     margin-top: 20px;
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width: 480px) {
+    
 }
